@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  * [deploy-complexity](https://github.com/dgtized/deploy-complexity) - Analyze the history and complexity of each deploy
  * [lein-vanity](https://github.com/dgtized/lein-vanity) - lines of code for vanity's sake
  
-### Emacs Packages
+### Emacs
 
  * [winnow.el](https://github.com/dgtized/winnow.el) - Winnow search results from ag/grep by matching/excluding lines
  * [occur-context-resize.el](https://github.com/dgtized/occur-context-resize.el) - Dynamically resize context around matches in occur-mode
@@ -37,3 +37,4 @@ Here are some ideas to get you started:
  * [autostereogram](https://github.com/dgtized/autostereogram)
  * [tile-game](https://github.com/dgtized/tile-game)
  * [sierpinsky-sieve](https://github.com/dgtized/sierpinski-sieve)
+ 
