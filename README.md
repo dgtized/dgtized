@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 ### Art, Toys, and Learning
 
  * [autostereogram](https://github.com/dgtized/autostereogram)
- * [tile-game](https://github.com/dgtized/tile-game)
+ * [shimmers](https://github.com/dgtized/shimmers) - A collection of [quil](https://github.com/quil/quil) based sketches
  * [sierpinsky-sieve](https://github.com/dgtized/sierpinski-sieve)
+ * [tile-game](https://github.com/dgtized/tile-game)
  
