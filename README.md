@@ -34,6 +34,7 @@ Here are some ideas to get you started:
  
 ### Art, Toys, and Learning
 
+ * [advent-of-code](https://github.com/dgtized/advent-of-code)
  * [autostereogram](https://github.com/dgtized/autostereogram)
  * [shimmers](https://github.com/dgtized/shimmers) - A collection of [quil](https://github.com/quil/quil) based sketches
  * [sierpinsky-sieve](https://github.com/dgtized/sierpinski-sieve)
