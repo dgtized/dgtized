@@ -13,15 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Projects
-
-[dotfiles](https://github.com/dgtized/dotfiles) - My development environment (mostly emacs configuration)
-
 ### Tools
 
- * [stack-mitosis](https://github.com/dgtized/stack-mitosis) - Clone & Replace AWS-RDS database replication graphs for maintaining production/staging data parity
+ * [stack-mitosis](https://github.com/dgtized/stack-mitosis) - Keep production/staging environments synchronized by cloning & replacing AWS-RDS replication graphs
  * [scrapyard](https://github.com/dgtized/scrapyard) - Simple caching tool for faster CI builds
- * [deploy-complexity](https://github.com/dgtized/deploy-complexity) - Analyze the history and complexity of each deploy
+ * [deploy-complexity](https://github.com/dgtized/deploy-complexity) - Analyze git history to report complexity of each deploy
  * [lein-vanity](https://github.com/dgtized/lein-vanity) - lines of code for vanity's sake
  
 ### Emacs
@@ -31,6 +27,7 @@ Here are some ideas to get you started:
  * [github-clone.el](https://github.com/dgtized/github-clone.el) - Fork and clone Github projects from Emacs
  * [list-environment.el](https://github.com/dgtized/list-environment.el) - A tabulated process environment editor
  * [brave-new-emacs](https://github.com/dgtized/brave-new-emacs) - Self executing Org-mode presentation on Emacs initialization with packages
+ * [dotfiles](https://github.com/dgtized/dotfiles) - My development environment (mostly emacs configuration)
  
 ### Art, Toys, and Learning
 
