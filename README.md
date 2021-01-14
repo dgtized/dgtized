@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 ### Art, Toys, and Learning
 
  * [advent-of-code](https://github.com/dgtized/advent-of-code)
- * [autostereogram](https://github.com/dgtized/autostereogram)
- * [shimmers](https://github.com/dgtized/shimmers) - A collection of [quil](https://github.com/quil/quil) based sketches
- * [sierpinsky-sieve](https://github.com/dgtized/sierpinski-sieve)
- * [tile-game](https://github.com/dgtized/tile-game)
+ * [autostereogram](https://github.com/dgtized/autostereogram) [(demo)](https://dgtized.github.io/autostereogram/)
+ * [shimmers](https://github.com/dgtized/shimmers) [(demo)](https://dgtized.github.io/shimmers/) - A collection of [quil](https://github.com/quil/quil) based sketches
+ * [sierpinsky-sieve](https://github.com/dgtized/sierpinski-sieve) [(demo)](https://dgtized.github.io/sierpinkski-sieve/)
+ * [tile-game](https://github.com/dgtized/tile-game) [(demo)](https://dgtized.github.io/tile-game/)
  
