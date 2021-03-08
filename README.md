@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
  * [advent-of-code](https://github.com/dgtized/advent-of-code)
  * [autostereogram](https://github.com/dgtized/autostereogram) [(demo)](https://dgtized.github.io/autostereogram/)
+ * [forth-to-forth](https://github.com/joneshf/forth-to-forth) - An effort to learn Go and Forth by writing bits of a Forth interpreter in Go (with @joneshf)
  * [shimmers](https://github.com/dgtized/shimmers) [(demo)](https://dgtized.github.io/shimmers/) - A collection of [quil](https://github.com/quil/quil) based sketches
  * [sierpinsky-sieve](https://github.com/dgtized/sierpinski-sieve) [(demo)](https://dgtized.github.io/sierpinski-sieve/)
  * [tile-game](https://github.com/dgtized/tile-game) [(demo)](https://dgtized.github.io/tile-game/)
