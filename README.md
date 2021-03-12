@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Tools
 
  * [stack-mitosis](https://github.com/dgtized/stack-mitosis) - Synchronize production/staging environments by cloning & replacing AWS-RDS replication graphs
- * [time-butler](https://github.com/dgtized/time-butler) - A cross-build monitoring tool for identifying performance bottlenecks and non-deterministic tests.
+ * [time-butler](https://github.com/dgtized/time-butler) - Cross-build CI monitoring for identifying performance bottlenecks and non-deterministic tests.
  * [scrapyard](https://github.com/dgtized/scrapyard) - Simple caching tool for faster CI builds
  * [deploy-complexity](https://github.com/dgtized/deploy-complexity) - Analyze git history to report complexity of each deploy
  * [lein-vanity](https://github.com/dgtized/lein-vanity) - lines of code for vanity's sake
